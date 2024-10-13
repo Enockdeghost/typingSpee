@@ -36,7 +36,9 @@ while True:
         # list contain our words
         test = ["my name is enock but every body call me ino",
                 "i study at jriit at sakina",
-                "im studying IT"]
+                "im studying IT","Tanzania is known for the archeological dig site of Olduvai Gorge, home to some of the oldest evidence of human ancestry in the world.",
+                "Tanzania is famous for its ugali. Commonly known as the national dish, ugali is one of the most widely consumed dishes throughout the country and is either served as the main component or a complement to many meals",
+                "Tanzania is estimated to be home to more than 100 different tribes, giving it incredible ethnic diversity. Yet, one tribe, in particular, is most well-known inside and outside of Tanzania. That would be the Maasai."]
         
         test1 = e.choice(test)
          # typing heading
